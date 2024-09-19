@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Egyptian | Muslim | interested in software engineering, especially Front-End web development.<br>Coding is something I enjoy.</p>
+<p align="left">Egyptian | Muslim | Interested in software engineering, especially Front-End web development.<br>Coding is something I enjoy.</p>
 
 ###
 
