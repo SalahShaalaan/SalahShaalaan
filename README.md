@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/salah-shaalaan/" target="blank">
+  <a href="https://www.linkedin.com/in/salah-shaalaan/" target="_blank">
     <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" height="40" width="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/salah_shaalaan" target="blank">
+  <a href="https://x.com/salah_shaalaan" target="_blank">
   <img src="https://pngimg.com/uploads/twitter/twitter_PNG27.png" height="40" width="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/salah.a.shalaan" target="blank">
+  <a href="https://www.facebook.com/salah.a.shalaan" target="_blank">
   <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19761.png" height="40" width="40" alt="Facebook logo"  />
   </a>
 </div>
