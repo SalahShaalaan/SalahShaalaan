@@ -4,9 +4,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salah-shaalaan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" height="40" width="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/salah_shaalaan" target="_blank">
+  <img src="https://pngimg.com/uploads/twitter/twitter_PNG27.png" height="40" width="40" alt="twitter logo"  />
+  </a>
+  <a href="https://x.com/salah_shaalaan" target="_blank">
+  <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19761.png" height="40" width="40" alt="Facebook logo"  />
+  </a>
 </div>
 
 ###
@@ -19,7 +24,7 @@
 
 ###
 
-<p align="left">Egyptian | Muslim | Interested in software engineering, especially Front-End web development.<br>Coding is something I enjoy.</p>
+<p align="left">Muslim | Egyption | Software Engineer <br> Bringing designs to life, Turning ideas into interactive, user-friendly websites. Coding isn't just my skill—it's my passion. <br> "Pray for the best, Prepare for the worst."</p>
 
 ###
 
