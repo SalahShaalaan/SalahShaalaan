@@ -131,7 +131,7 @@ I specialize in the intersection of technical SEO and modern web development, he
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SalahShaalaan&theme=tokyonight&hide_border=true&background=0D1117&ring=C13584&fire=C13584&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=SalahShaalaan&theme=tokyonight&hide_border=true&background=0D1117&ring=C13584&fire=C13584&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 </p>
 
 
